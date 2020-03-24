@@ -1,3 +1,3 @@
 public static void main(){
-    System.println("hello world")
+    System.out.println("hello world")
 }
